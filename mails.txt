@@ -1,0 +1,7 @@
+
+From: kholoud@gmail.com
+To: kholoud@gmail.com
+
+Hi hasnaa
+Test Mail in Python Lab
+Mail Test
